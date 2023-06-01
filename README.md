@@ -1,1 +1,1 @@
-My first readme echo My first readme
+this is the first few courses in the alx se  training 
