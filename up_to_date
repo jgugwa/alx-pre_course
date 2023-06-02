@@ -1,2 +1,1 @@
-git pull origin master
-
+git pull https://github.com/jgugwa/alx-pre_course.git master
